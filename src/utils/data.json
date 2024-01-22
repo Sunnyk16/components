@@ -1,0 +1,23 @@
+[
+    {
+        "image":"https://raw.githubusercontent.com/roadtocode4u/static-data/main/course-headers/icp.png",
+        "title":"Internship Guarantee Classroom Program 2.0",
+        "info":"Learn Fullstack Development and Become Internship Ready in Just 6 Months 🚀",
+        "courseStart":"Course Start DateStarting from 22nd January (final date)",
+        "price":"9,999"
+    },
+    {
+        "image":"https://raw.githubusercontent.com/roadtocode4u/static-data/main/course-headers/icp.png",
+        "title":"Internship Cohort Program 8.0",
+        "info":"Learn Fullstack Development and Become Internship Ready in Just 4 Months 🚀",
+        "courseStart":"Starting from 18th March 2024",
+        "price":"1999"
+    },
+    {
+        "image":"https://raw.githubusercontent.com/roadtocode4u/static-data/main/course-headers/icp.png",
+        "title":"C Programming",
+        "info":"Learn C Programming from Scratch and Kickstart your career in Computer Science",
+        "courseStart":"Course Start DateStarting from 12th February 2024",
+        "price":"9,99"
+    }
+]
